@@ -2,7 +2,7 @@
 ## Introducción al Proyecto
 En este proyecto trabajaremos con datos de Showz, una empresa dedicada a la venta de entradas para eventos. El objetivo es ayudar a optimizar los gastos de marketing, analizando cómo los usuarios interactúan con la plataforma y cuánto beneficio generan en relación con el costo de adquisición.
 
-##Objetivos principales
+## Objetivos principales
 * Preparar los datos de visitas, pedidos y gastos de marketing para el análisis.
 
 * Analizar el comportamiento de los usuarios, incluyendo frecuencia de visitas, conversiones y hábitos de compra.
@@ -72,6 +72,7 @@ Recomendación: mantener bajo control, optimizar campañas y analizar ajustes an
 * Incrementar ticket promedio (AOV): fomentar compras mínimas con promos, upselling/cross-selling, ya que la mediana es baja ($2.5).
 
 * Optimización de gasto: redirigir parte del presupuesto de la fuente 3 hacia fuentes 1, 2 y 9, que han demostrado ser más rentables.
+
 
 
 
